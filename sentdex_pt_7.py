@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+#To capture Videos
 cap = cv2.VideoCapture(0)
 
 while True:
